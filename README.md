@@ -21,11 +21,14 @@
   ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-333333?style=flat&logo=jupyter-notebook)
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![Tableau](https://img.shields.io/badge/-Tableau-333333?style=flat&logo=tableau)
-  ![Google Analytics](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+  ![Google Analytics](https://img.shields.io/badge/-Google%20Analytics-333333?style=flat&logo=google-analytics)
+  ![Lucid Chart](https://img.shields.io/badge/-Lucid%20Chart-333333?style=flat&logo=lucid-chart)
+  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+  ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
+  ![Jira](https://img.shields.io/badge/-Jira-333333?style=flat&logo=jira)
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![RStudio](https://img.shields.io/badge/-RStudio-333333?style=flat&logo=rstudio)
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-  ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
+
+<hr/>
 
 
