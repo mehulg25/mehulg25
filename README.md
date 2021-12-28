@@ -32,4 +32,5 @@
 
 <hr/>
 
-
+<h3>📈 &nbsp;Statistics</h3>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=mehulg25&show_icons=true&include_all_commits=true&count_private=true&line_height=24&theme=vue&hide=stars" />  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehulg25&show_icons=true&include_all_commits=true&line_height=30&count_private=true&layout=compact&theme=vue" />
