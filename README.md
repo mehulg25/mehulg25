@@ -34,3 +34,13 @@
 
 <h3>📈 &nbsp;Statistics</h3>
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=mehulg25&show_icons=true&include_all_commits=true&count_private=true&line_height=24&theme=vue&hide=stars" />  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehulg25&show_icons=true&include_all_commits=true&line_height=30&count_private=true&layout=compact&theme=vue" />
+
+<hr/>
+
+<h3> 🤝🏻 &nbsp;Connect with Me </h3>
+<p align="center">
+<a href="https://www.mehulg25.github.io/"><img alt="Website" src="https://img.shields.io/badge/Website-www.mehulg25.github.io-blue?style=flat-square&logo=google-chrome"></a>
+<a href="https://www.linkedin.com/in/mehulg25/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Mehul%20Gupta-blue?style=flat-square&logo=linkedin"></a>
+<a href="mailto:mehulg25@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-mehulg25@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<a href="https://calendly.com/mehulg25"><img alt="Schedule" src="https://img.shields.io/badge/Meeting-mehulg25-blue?style=flat-square&logo=zoom"></a>
+</p>
