@@ -20,16 +20,21 @@
 
 - ⚙️ &nbsp;
   ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-333333?style=flat&logo=jupyter-notebook)
-  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+  ![RStudio](https://img.shields.io/badge/-RStudio-333333?style=flat&logo=rstudio)
   ![Tableau](https://img.shields.io/badge/-Tableau-333333?style=flat&logo=tableau)
   ![Google Analytics](https://img.shields.io/badge/-Google%20Analytics-333333?style=flat&logo=google-analytics)
+  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+  ![SQL Server Management Studio](https://img.shields.io/badge/-SQL%20Server%20Management%20Studio-333333?style=flat&logo=sql-server-management-studio)
+  ![Amazon Web Services](https://img.shields.io/badge/-Amazon%20Web%20Services-333333?style=flat&logo=amazon-web-services)
+  ![Salesforce](https://img.shields.io/badge/-Salseforce-333333?style=flat&logo=salesforce)
+  ![Snowflake](https://img.shields.io/badge/-Snowflake-333333?style=flat&logo=snowflake)
+  ![MS Office Suite](https://img.shields.io/badge/-MS%20Office%20Suite-333333?style=flat&logo=ms-office-suite)
   ![Lucid Chart](https://img.shields.io/badge/-Lucid%20Chart-333333?style=flat&logo=lucid-chart)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
   ![Jira](https://img.shields.io/badge/-Jira-333333?style=flat&logo=jira)
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![RStudio](https://img.shields.io/badge/-RStudio-333333?style=flat&logo=rstudio)
-
+  
 <hr/>
 
 <h3>📈 &nbsp;Statistics</h3>
