@@ -5,7 +5,7 @@
 
 - 🤔 &nbsp; A person who understands both technology and business.
 - 🎓 &nbsp; Studying Master of Science in Information Systems at Robert H. Smith School of Business, University of Maryland.
-- 💼 &nbsp; Experience in working with music platforms.
+- 💼 &nbsp; Data Science Intern at Tunein.
 - 🌱 &nbsp; Learning more about Data Science.
 
 <hr/>
