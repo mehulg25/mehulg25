@@ -47,5 +47,4 @@
 <a href="https://mehtalkculous.com"><img alt="Website" src="https://img.shields.io/badge/Website-www.mehtalkculous.com-blue?style=flat-square&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/mehulg25/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Mehul%20Gupta-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:mehulg25@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-mehulg25@gmail.com-blue?style=flat-square&logo=gmail"></a>
-<a href="https://calendly.com/mehulg25"><img alt="Schedule" src="https://img.shields.io/badge/Meeting-mehulg25-blue?style=flat-square&logo=zoom"></a>
 </p>
