@@ -1,4 +1,4 @@
-![A Beginner's Guide to Mehul Gupta-2](https://user-images.githubusercontent.com/52470314/147558933-a5625ff5-1ccb-4613-bc09-75b6e11714cb.png)
+![background](https://github.com/mehulg25/mehulg25/assets/52470314/7d841a15-dce8-4214-ac5e-2d2ce03ad597)
 
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
